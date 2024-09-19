@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url("img/corinthians.png");
+}
+.container{
+    margin-top: 5%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.informacoes{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    border: 10px groove, rgb(0, 0, 0);
+    border-radius: 100px;
+    width: 30%;
+    background-color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    
+    margin: 50px;
+    box-shadow: 0px 0px 100px black;
+    text-align: center;
+}
+h2 {
+    font-size: 60px;
+  }
